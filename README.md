@@ -1,4 +1,4 @@
-# pi-terminal
+# Pi Terminal
 
 Watch the build video ↓
 
