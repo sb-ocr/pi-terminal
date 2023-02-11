@@ -1,0 +1,10 @@
+Qty,Value,Device,Package,Parts,Description,Manufacturer Part #,Digikey
+2,100 Ohms,R-US_CHIP-0603(1608-METRIC),RESC1608X60,"R1, R2",Resistor Fixed - ANSI,WR06X101 JTL,1292-WR06X101JTLCT-ND
+2,4 Ohms,OWS142550TA4,OWS-142550TA-4,"SPK1, SPK2",4 Ohms IoT Speaker Speaker 2 W 980 Hz ~ 20 kHz Top Rectangular,OWS-142550TA-4,3949-OWS-142550TA-4-ND
+1,-,PVA2EEH11.7NV2,PVA2,SW7,Pushbutton Switch DPDT Keyswitch Through Hole,PVA2EEH1 1.7N V2,108-PVA2EEH11.7NV2-ND
+6,-,PVA1OAH11.2NV2,PVA1,"SW1, SW2, SW3, SW4, SW5, SW6",Pushbutton Switch DPST-NO Keyswitch Through Hole,PVA1 OA H1 1.2N V2,401-1133-ND
+3,-,CHIP-FLAT-G_1206,LEDC3216X75N_FLAT-G,"D1, D2, D3",Green 567nm LED Indication - Discrete 2.1V 1206 (3016 Metric),PG1101W-TR,404-1046-1-ND
+2,-,STX-3790-5NSTX-3790-5N_KYC,STX-3790-5N_KYC,"J1, J2","3.50mm (0.141"", 1/8"", Mini Plug) - Headphone Phone Jack Stereo (3 Conductor, TRS) Connector Solder",STX-3790-5N,2092-STX-3790-5N-ND
+1,-,PINHD-2X10,2X10,JP1,"Connector Header Through Hole 20 position 0.100"" (2.54mm)",PREC010DAAN-RC,S2012EC-10-ND
+1,,PINHD-2X2,2X2,JP2,"Connector Header Through Hole 4 position 0.100"" (2.54mm)",PREC002DAAN-RC,S2012EC-02-ND
+7,Black,,,,Round Keyswitch Switch Cap Black Snap Fit,PV BK,401-1148-ND

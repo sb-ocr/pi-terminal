@@ -1,0 +1,8 @@
+Qty,Value,Device,Package,Parts,Description,Manufacturer Part #,Digikey
+2,,USB4125-GF-A_REVA2,GCT_USB4125-GF-A_REVA2,"J1, J2",USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) Charging only,USB4125-GF-A,2073-USB4125-GF-ACT-ND
+1,,10118192-0002LF,AMPHENOL_10118192-0002LF,J3,"USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle",10118192-0002LF,609-5379-1-ND
+1,,PINHD-1X2,1X2,JP1,"Connector Header Through Hole 2 position 0.100"" (2.54mm)",PREC002SAAN-RC,S1012EC-02-ND
+2,5K1,R-US_CHIP-0603(1608-METRIC),RESC1608X60,"R1, R2","5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric)",RC0603JR-075K1L,311-5.1KGRCT-ND
+1,,2828XX-2282837-2,TERMBLK_508-2N,U1,2 Position Wire to Board Terminal Block Horizontal with Board,282837-2,A113320-ND
+1,,SPST,,,"Rocker Switch SPST 6A (AC) 125 V Panel Mount, Snap-In",PRK22J5BBBNN,CH864-ND
+1,,1 x 2,,,"Shunt Connector Black Open Top 0.100"" (2.54mm) Gold",QPC02SXGN-RC,S9337-ND
